@@ -1,7 +1,7 @@
 # ComputerVision :exclamation: :exclamation:
 Intro to Computer Vision (ECSE415) assignments - Jupyter Notebook (python assignments)
 
-:point_right: <a href="https://github.com/nayemalam/Computer_Vision_Final_Project">Link</a> to my final project - Localization, classification, object detection and recognition.
+:point_right: <a href="https://github.com/nayemalam/FaceAndObjectClassification">Link</a> to my final project - Localization, classification, object detection and recognition.
 
 Course Description: 
 #
